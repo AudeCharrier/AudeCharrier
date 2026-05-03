@@ -15,6 +15,19 @@ Sensible aux enjeux environnementaux, j’accorde aussi de l’importance à la 
 
 ## En apprentissage
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Accessibility-A11y-2ECC71?style=for-the-badge" height="35" valign="middle">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" valign="middle">
+</p>
+
+
+<div align="center">
+  <!-- On force la hauteur du badge pour qu'il soit proche de celle du logo -->
+  <img src="https://img.shields.io/badge/Web_Accessibility-A11y-2ECC71?style=for-the-badge" height="45" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+</div>
+
 <table border="0">
   <tr>
     <td>
