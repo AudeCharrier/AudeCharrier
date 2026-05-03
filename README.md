@@ -9,69 +9,22 @@ Sensible aux enjeux environnementaux, j’accorde aussi de l’importance à la 
 
 ## Skills
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-
-  <div style="background:#1e1e1e; padding:10px; border-radius:12px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  </div>
-
-  <div style="background:#1e1e1e; padding:10px; border-radius:12px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  </div>
-
-  <div style="background:#1e1e1e; padding:10px; border-radius:12px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  </div>
-
-
-  <div style="background:#1e1e1e; padding:10px; border-radius:12px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  </div>
-
-  <div style="background:#1e1e1e; padding:10px; border-radius:12px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  </div>
-
-<div style="background:#1e1e1e; padding:10px; border-radius:12px; display:flex; align-items:center; justify-content:center;">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
-    width="40"
-    style="filter: invert(1);"
-  />
-</div>
-
-  <div style="background:#1e1e1e; padding:10px; border-radius:12px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  </div>
-
-<div style="background:#1e1e1e; padding:10px; border-radius:12px; display:flex; align-items:center; justify-content:center;">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-    width="40"
-    style="filter: invert(1);"
-  />
-</div>
-</div>
+![Mes technos](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github)
 
 ---
 
 ## En apprentissage
 
-
-<div style="display:flex; flex-direction:row; align-items:center; flex-wrap:wrap; gap:10px;">
-    
-  <div style="display:flex; align-items:center;">
-    <img 
-      src="https://img.shields.io/badge/Web_Accessibility-A11y-2ECC71?style=for-the-badge"
-    />
-  </div>
-<div style="background:#1e1e1e; padding:10px; border-radius:12px; display:flex; align-items:center; justify-content:center; width:40px;">
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-     width="40"
-/>
-</div>
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Web_Accessibility-A11y-2ECC71?style=for-the-badge" alt="A11y" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -135,9 +88,16 @@ Je m’intéresse particulièrement à la qualité du code, aux bonnes pratiques
 
 ## Liens
 
-<div style="display:flex; flex-direction:row; align-items:center; flex-wrap:wrap; gap:10px;">
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30> <a href ="https://linkedin.com/in/aude-charrier-devweb">https://linkedin.com/in/aude-charrier-devweb</a>
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30 alt="A11y" />
+    </td>
+    <td>
+   <a href ="https://linkedin.com/in/aude-charrier-devweb">https://linkedin.com/in/aude-charrier-devweb</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
