@@ -82,6 +82,11 @@ Je m’intéresse particulièrement à la qualité du code, aux bonnes pratiques
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" align="center" alt="LinkedIn" />
   <a href="https://linkedin.com/in/aude-charrier-devweb">https://linkedin.com/in/aude-charrier-devweb</a>
 </p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="vertical-align:middle" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/aude-charrier-devweb">https://linkedin.com/in/aude-charrier-devweb</a>
+</p>
 <br>
 
 ## À propos
