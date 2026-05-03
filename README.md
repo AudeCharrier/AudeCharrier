@@ -5,39 +5,22 @@ Sensible aux enjeux environnementaux, j’accorde aussi de l’importance à la 
 
 À moyen terme, je souhaite évoluer vers le back-end Java afin de compléter mon profil et explorer différents types de produits logiciels.
 
----
+<br>
 
 ## Skills
 
 ![Mes technos](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github)
 
----
+<br>
 
 ## En apprentissage
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web_Accessibility-A11y-2ECC71?style=for-the-badge" height="35" valign="middle">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" valign="middle">
+<p align="left">
+  <img src="https://img.shields.io/badge/Web_Accessibility-A11y-2ECC71?style=for-the-badge" height="32">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="32">
 </p>
 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Web_Accessibility-A11y-2ECC71?style=for-the-badge" height="45" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-</div>
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;">
-      <img src="https://img.shields.io/badge/Web_Accessibility-A11y-2ECC71?style=for-the-badge" />
-    </td>
-    <td style="border: none; padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=mysql" />
-    </td>
-  </tr>
-</table>
----
+<br>
 
 ## Projets
 
@@ -51,8 +34,6 @@ Travail centré sur la logique de jeu, la gestion d’événements et d’états
 Démo : fjdfklfkfdskl <br>
 Code : [GitHub - ReactKingdomino](https://github.com/audecharrier/react-kingdomino)
 
----
-
 ### 🎬 Popcorn  
 **Projet de formation – équipe de 6**  
 ⚛️ React · API  
@@ -61,8 +42,6 @@ Refonte d’un service type Allociné avec une approche plus moderne (inspirée 
 
 Démo : fjdfklfkfdskl <br>
 Code : [GitHub - Popcorn](https://github.com/audecharrier/popcorn)
-
----
 
 ### 🍽️ Keskonmange  
 **Projet de formation – équipe de 6**  
@@ -73,7 +52,7 @@ Application web de recettes et de livraison de repas, développée en équipe av
 Démo : fjdfklfkfdskl <br>
 Code : [GitHub - Keskonmange](https://github.com/audecharrier/keskonmange)
 
----
+<br>
 
 ## Méthode de travail
 
@@ -87,7 +66,7 @@ Je cherche à livrer des choses fonctionnelles et maintenables, sans m’enferme
 
 Il est essentiel pour moi de comprendre ce que je fais, avec ou sans assistance.
 
----
+<br>
 
 ## Direction
 
@@ -95,22 +74,16 @@ Il est essentiel pour moi de comprendre ce que je fais, avec ou sans assistance.
 
 Je m’intéresse particulièrement à la qualité du code, aux bonnes pratiques et à la progression collective en équipe. Ainsi, je me projette dans une grande structure où l’on accompagne les collaborateurs dans leur montée en compétences et où la qualité logicielle est un vrai sujet.
 
----
+<br>
 
 ## Liens
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30 alt="A11y" />
-    </td>
-    <td>
-   <a href ="https://linkedin.com/in/aude-charrier-devweb">https://linkedin.com/in/aude-charrier-devweb</a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=30 alt="A11y" />
+<a href ="https://linkedin.com/in/aude-charrier-devweb">https://linkedin.com/in/aude-charrier-devweb</a>
+</p>
 
----
+<br>
 
 ## À propos
 
