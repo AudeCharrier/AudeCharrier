@@ -79,8 +79,10 @@ Je m’intéresse particulièrement à la qualité du code, aux bonnes pratiques
 ## Liens
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
-  <sub><a href="https://linkedin.com/in/aude-charrier-devweb">https://linkedin.com/in/aude-charrier-devweb</a></sub>
+  <a href="https://linkedin.com/in/aude-charrier-devweb" style="text-decoration:none; display:inline-block; line-height:30px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="vertical-align:middle; margin-right:10px;">
+    https://linkedin.com/in/aude-charrier-devweb
+  </a>
 </p>
 
 <p align="left">
@@ -88,10 +90,7 @@ Je m’intéresse particulièrement à la qualité du code, aux bonnes pratiques
   <a href="https://linkedin.com/in/aude-charrier-devweb">https://linkedin.com/in/aude-charrier-devweb</a>
 </p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="vertical-align:middle" alt="LinkedIn" />
-  <a href="https://linkedin.com/in/aude-charrier-devweb">https://linkedin.com/in/aude-charrier-devweb</a>
-</p>
+
 <br>
 
 ## À propos
