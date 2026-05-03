@@ -22,23 +22,21 @@ Sensible aux enjeux environnementaux, j’accorde aussi de l’importance à la 
 
 
 <div align="center">
-  <!-- On force la hauteur du badge pour qu'il soit proche de celle du logo -->
   <img src="https://img.shields.io/badge/Web_Accessibility-A11y-2ECC71?style=for-the-badge" height="45" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" height="50" />
 </div>
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Web_Accessibility-A11y-2ECC71?style=for-the-badge" alt="A11y" />
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/Web_Accessibility-A11y-2ECC71?style=for-the-badge" />
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    <td style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=mysql" />
     </td>
   </tr>
 </table>
-
 ---
 
 ## Projets
