@@ -1,4 +1,4 @@
-# Développeuse full-stack JS
+# Développeuse front & back JS
 
 Développeuse full-stack JavaScript, je conçois des interfaces en gardant l’utilisateur au centre de ma réflexion : chercher à faire simple, fluide, efficace.  
 Sensible aux enjeux environnementaux, j’accorde aussi de l’importance à la sobriété et à l’optimisation dans mes choix techniques.  
@@ -9,7 +9,7 @@ Sensible aux enjeux environnementaux, j’accorde aussi de l’importance à la 
 
 ## Skills
 
-![Mes technos](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,github)
+![Mes technos](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,github)
 
 <br>
 
@@ -31,32 +31,36 @@ Sensible aux enjeux environnementaux, j’accorde aussi de l’importance à la 
 Adaptation numérique du jeu de société Kingdomino.  
 Travail centré sur la logique de jeu, la gestion d’événements et d’états côté front-end.
 
-Démo : fjdfklfkfdskl <br>
-Code : [GitHub - ReactKingdomino](https://github.com/audecharrier/react-kingdomino)
+- Démo : [Netlify - React-Kingdomino](https://react-kingdomino.netlify.app)<br>
+- Code front-end : [GitHub - ReactKingdomino](https://github.com/audecharrier/react-kingdomino) <br>
+- Code back-end : [GitHub - API-Kingdomino](https://github.com/audecharrier/api-kingdomino)
+
 
 ### 🎬 Popcorn  
-**Projet de formation – équipe de 6**  
+**Projet collaboratif – équipe de 6**  
 ⚛️ React · API  
 
 Refonte d’un service type Allociné avec une approche plus moderne (inspirée de Netflix), incluant des fonctionnalités communautaires et une consommation d’API.
 
-Démo : fjdfklfkfdskl <br>
-Code : [GitHub - Popcorn](https://github.com/audecharrier/popcorn)
+- Démo : [Netlify - cine-popcorn](https://cine-popcorn.netlify.app) <br>
+- Code front-end : [GitHub - Popcorn](https://github.com/audecharrier/popcorn) <br>
+- Code back-end : [GitHub - API-Popcorn](https://github.com/audecharrier/api-popcorn)
+
 
 ### 🍽️ Keskonmange  
-**Projet de formation – équipe de 6**  
+**Projet collaboratif – équipe de 6**  
 🌐 HTML · CSS · JavaScript  
 
 Application web de recettes et de livraison de repas, développée en équipe avec un focus sur la structuration front et les interactions utilisateur.
 
-Démo : fjdfklfkfdskl <br>
-Code : [GitHub - Keskonmange](https://github.com/audecharrier/keskonmange)
+- Démo : [GitHub Pages - Keskonmange](https://audecharrier.github.io/keskonmange/) <br>
+- Code : [GitHub - Keskonmange](https://github.com/audecharrier/keskonmange)
 
 <br>
 
 ## Méthode de travail
 
-J’aime disposer d’une feuille de route claire avant de développer : maquette et design posés, fonctionnement global de l’application cadré. Quand je me lance dans une feature, je réfléchis d’abord sur papier pour définir la structure et la logique.
+Je fonctionne volontiers avec une phase de cadrage (maquettes, parcours utilisateur, logique applicative), que j’affine ensuite dans une approche itérative et adaptative, en cohérence avec les pratiques agiles. Quand je me lance dans une feature, je réfléchis d’abord sur papier pour définir la structure et la logique.
 
 Si je bloque, je fais appel à ma réflexion avant de chercher de l’aide. Je m’appuie sur le web ou l’IA pour comprendre un concept, débloquer une piste ou explorer d’autres approches. Parfois, je change aussi de tâche quand je tourne en rond, ce qui m’aide à garder de la fluidité dans mon travail, et me permet de revenir avec un regard neuf (et souvent une solution !).
 
@@ -70,7 +74,7 @@ Il est essentiel pour moi de comprendre ce que je fais, avec ou sans assistance.
 
 ## Direction
 
-À la rentrée 2026, j’intègre une formation de conceptrice-développeuse en alternance. Je souhaite compléter mon profil full-stack par le back-end Java et ainsi m’ouvrir à différents types de produits logiciels.
+À la rentrée 2026, j’intègre une formation de concepteur-développeur en alternance. Je souhaite compléter mon profil full-stack par le back-end Java et ainsi m’ouvrir à différents types de produits logiciels.
 
 Je m’intéresse particulièrement à la qualité du code, aux bonnes pratiques et à la progression collective en équipe. Ainsi, je me projette dans une grande structure où l’on accompagne les collaborateurs dans leur montée en compétences et où la qualité logicielle est un vrai sujet.
 
